@@ -3,7 +3,7 @@ Rebecca Hochman-Fisher
 Connect Four
 Plays a game of Connect Four, where two people compete until they've connected
 four spaces.
-
+Run in the command line.
 
 */
 import java.util.*;
